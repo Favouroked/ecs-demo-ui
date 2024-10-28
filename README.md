@@ -1,3 +1,6 @@
+## Credit Limit System Demo UI
+A demo UI for [ECS](https://github.com/Favouroked/credit-limit-system-demo).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
